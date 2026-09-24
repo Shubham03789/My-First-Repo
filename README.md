@@ -1,4 +1,4 @@
 This is my First Repository
 Hey My name is Shubham Waghmare,
-Am percusing Computer Science from Ruia College
+Am a Computer Science Student from Ruia College
 
